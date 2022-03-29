@@ -1,5 +1,5 @@
 # Federated quantum machine learning school project
-This project was realised by 4 students of INSA Rennes. 
+This project was realised with 3 other students of INSA Rennes. 
 The aim was to classify 2 digits on the MNIST database, using both federated and quantum neural networks.
 
 This repository contains 4 notebooks :
